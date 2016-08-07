@@ -1,7 +1,7 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "http://www.brivo.com/wp-content/uploads/2016/03/Blog_UY-1024x683.jpg"
+name: "Terrell Reese"
+title: "Adventures Of Software Development"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
